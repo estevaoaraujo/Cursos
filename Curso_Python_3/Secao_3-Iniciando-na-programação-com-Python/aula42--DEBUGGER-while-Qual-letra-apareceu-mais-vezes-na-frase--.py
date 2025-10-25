@@ -1,3 +1,4 @@
+
 frase = 'Meu nome e estevao araujo e eu gosto de programar em python'
 
 i = 0
