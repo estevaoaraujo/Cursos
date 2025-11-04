@@ -1,4 +1,5 @@
-- Formatação ----------> aula 14
-- Fatiamento ----------> aula 27
-- CRUD ----------------> aula 48
-- Dicionario de dados--> aula 76
+- Formatação -----------> aula 14
+- Fatiamento -----------> aula 27
+- CRUD -----------------> aula 48
+- Dicionario de dados---> aula 76
+- Desempacotemento list-> aula84    

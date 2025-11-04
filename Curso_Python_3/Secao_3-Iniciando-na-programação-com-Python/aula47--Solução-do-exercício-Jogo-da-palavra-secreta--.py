@@ -14,7 +14,7 @@ na palavra secreta.
 Faça a contagem de tentativas do seu
 usuário.
 """
-import os   # Importa o módulo 'os' para poder usar comandos do sistema operacional (ex: limpar tela)
+import os   
 
 # Palavra que o jogador precisa descobrir
 palavra_secreta = 'perfume'
