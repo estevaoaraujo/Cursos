@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Exercícios aula 13</title>
+</head>
+<body>
+  
+  <script>
+  const nome = prompt('Digite seu nome completo:');
+  document.body.innerHTML += `Seu nome é: <strong>${nome}</strong><br />`;
+  document.body.innerHTML += `Seu nome tem <strong>${nome.length}</strong> letras <br />`;
+  document.body.innerHTML += `A segunda letra do seu nome é: <strong>${nome[1]}</strong><br />`;
+  document.body.innerHTML += `Qual o primeiro índice da letra a no seu nome? <strong>${nome.indexOf('a')}</strong><br />`;
+  document.body.innerHTML += `Qual o último índice da letra a no seu nome? <strong>${nome.lastIndexOf('a')}</strong><br />`;
+  document.body.innerHTML += `As últimas 3 letras do seu nome são: <strong>${nome.slice(-3, nome.length)}</strong><br />`;
+  document.body.innerHTML += `As palavras do seu nome são: <strong>${nome.split(' ')}</strong><br />`;
+  document.body.innerHTML += `Seu nome com letras maiúsculas: <strong>${nome.toUpperCase()}</strong><br />`;
+  document.body.innerHTML += `Seu nome com letras minúsculas: <strong>${nome.toLowerCase()}</strong><br />`;
+  document.body.innerHTML += `Seu nome com a primeira letra maiúscula: <strong>${nome.charAt(0).toUpperCase() + nome.slice(1).toLowerCase()}</strong><br />`;    
+  document.body.innerHTML += `Qual o último caractere do seu nome? <strong>${nome.charAt(nome.length - 1)}</strong><br />`;
+  document.body.innerHTML += `Qual o primeiro caractere do seu nome? <strong>${nome.charAt(0)}</strong><br />`;
+  document.body.innerHTML += `Seu nome sem espaços no início e no fim: <strong>${nome.trim()}</strong><br />`;
+  document.body.innerHTML += `Existe alguma letra 'x' no seu nome? <strong>${nome.includes('x') ? 'Sim' : 'Não'}</strong><br />`;
+  document.body.innerHTML += `Existe alguma letra 'a' no seu nome? <strong>${nome.includes('a') ? 'Sim' : 'Não'}</strong><br />`;
+  document.body.innerHTML += `Seu nome começa com a letra 'A'? <strong>${nome.startsWith('A') ? 'Sim' : 'Não'}</strong><br />`;
+  document.body.innerHTML += `Seu nome termina com a letra 'a'? <strong>${nome.endsWith('a') ? 'Sim' : 'Não'}</strong><br />`;
+  document.body.innerHTML += `A segunda palavra do seu nome é: <strong>${nome.split(' ')[1] || ''}</strong><br />`;
+  document.body.innerHTML += `Seu nome com todas as letras trocadas por '*': <strong>${nome.replace(/./g, '*')}</strong><br />`;
+  document.body.innerHTML += `Seu nome repetido 3 vezes: <strong>${nome.repeat(3)}</strong><br />`;
+  document.body.innerHTML += `Seu nome com vogais removidas: <strong>${nome.replace(/[aeiou]/gi, '')}</strong><br />`;
+  document.body.innerHTML += `Seu nome invertido: <strong>${nome.split('').reverse().join('')}</strong><br />`;   
+  </script>
+</body>
+</html>
