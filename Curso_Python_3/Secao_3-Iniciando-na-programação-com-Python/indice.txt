@@ -1,0 +1,67 @@
+Aula 1 – Comentários e DocStrings
+Aula 2 – A função print, argumentos e quebra de linha
+Aula 3 – Tipagem, strings e aspas
+Aula 4 – Tipos de dados int e float (números)
+Aula 5 – Tipo de dados bool (True ou False)
+Aula 6 – Coerção de tipos (converter um tipo em outro)
+Aula 7 – Introdução às variáveis em Python
+Aula 8 – Exercício com variáveis e tipos de dados (solucionado)
+Aula 9 – Introdução aos operadores aritméticos (matemática)
+Aula 10 – Concatenação e repetição com operadores aritméticos
+Aula 11 – Precedência de operadores aritméticos
+Aula 12 – Solução do exercício de programação (Cálculo do IMC)
+Aula 13 – Introdução às f-strings (formatação de strings)
+Aula 14 – Formatação de strings com o método format
+Aula 15 – Usando a função input para coletar dados do usuário
+Aula 16 – Introdução aos blocos de código, if, elif, else
+Aula 17 – If, elif e else: comportamento do interpretador
+Aula 18 – Debugger do VS Code e como o interpretador lê códigos
+Aula 19 – Operadores relacionais (comparação)
+Aula 20 – Exercício de programação com if e comparação
+Aula 21 – Operador lógico AND
+Aula 22 – Operador lógico OR
+Aula 23 – Operador lógico NOT
+Aula 24 – Operadores IN e NOT IN
+Aula 25 – Interpolação de strings com % (formatação antiga)
+Aula 26 – Formatação de strings com f-strings
+Aula 27 – Fatiamento de strings e função len
+Aula 28 – Exercício: teste seu conhecimento sobre strings
+Aula 29 – Introdução ao try/except para capturar erros
+Aula 30 – Variáveis constantes e complexidade de código
+Aula 31 – Flags, is, is not, None
+Aula 32 – Solução de 30 exercícios enunciados
+Aula 33 – Documentação
+Aula 34 – While e a estrutura de repetição (parte 1)
+Aula 35 – While: condição em detalhes
+Aula 36 – Operadores de atribuição (+=, -= etc.)
+Aula 37 – While + continue
+Aula 38 – While + while
+Aula 39 – Solução do exercício guiado com while
+Aula 40 – Exercício guiado: calculadora (parte 2)
+Aula 41 – While + else
+Aula 42 – Debugger: qual letra apareceu mais vezes na frase
+Aula 43 – Introdução ao for em estruturas de repetição
+Aula 44 – Range para gerar intervalos de números
+Aula 45 – Como o for funciona por baixo dos panos (iter e next)
+Aula 46 – While também funciona no for (continue, break, else)
+Aula 47 – Solução: jogo da palavra secreta
+Aula 48 – Inserindo itens em qualquer índice da lista (insert)
+Aula 49 – Concatenando e estendendo listas
+Aula 50 – Append e extend
+Aula 51 – Cuidados com tipos mutáveis em Python (copy)
+Aula 52 – For com list unpacking
+Aula 53 – Exercícios com listas
+Aula 54 – Introdução ao empacotamento e desempacotamento
+Aula 55 – Tipo tuple (tuplas)
+Aula 56 – Enumerate para enumerar valores iteráveis
+Aula 57 – Exercício: crie uma lista de compras
+Aula 58 – Imprecisão de números de ponto flutuante e round
+Aula 59 – split, join e strip: métodos úteis
+Aula 60 – Listas dentro de listas (iteráveis dentro de iteráveis)
+Aula 61 – Detalhes sobre o interpretador Python
+Aula 62 – Desempacotamento com chamadas de função
+Aula 63 – Operação ternária em Python
+Aula 64 – Exercício: criação do primeiro gerador de CPF
+Aula 65 – Exercício: gerar segundo dígito do CPF
+Aula 66 – Exercícios: problemas e solução do CPF
+Aula 67 – Gerando CPFs com nosso algoritmo
